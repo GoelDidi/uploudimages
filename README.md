@@ -19,3 +19,4 @@
 ![3](https://user-images.githubusercontent.com/88629415/147500039-cefd3f8d-d4c4-476f-8be8-4238c4a19830.png)
 ![download](https://user-images.githubusercontent.com/88629415/148658851-6ce21efa-9b6d-4032-bea4-9aef4052ca55.jpg)
 ![Ex4_uml](https://user-images.githubusercontent.com/88629415/148675696-e866ae01-6895-4b81-9ac4-d815d84655fe.png)
+![ביצועים](https://user-images.githubusercontent.com/88629415/148695097-21b389d1-3402-4db6-9f48-ca74fe9162d4.png)
